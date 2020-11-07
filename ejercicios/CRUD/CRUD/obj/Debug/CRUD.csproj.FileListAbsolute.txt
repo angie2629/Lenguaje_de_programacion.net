@@ -1,0 +1,10 @@
+E:\Angie Duitama\Downloads\CRUD\CRUD\bin\Debug\CRUD.exe.config
+E:\Angie Duitama\Downloads\CRUD\CRUD\bin\Debug\CRUD.exe
+E:\Angie Duitama\Downloads\CRUD\CRUD\bin\Debug\CRUD.pdb
+E:\Angie Duitama\Downloads\CRUD\CRUD\obj\Debug\CRUD.csprojAssemblyReference.cache
+E:\Angie Duitama\Downloads\CRUD\CRUD\obj\Debug\CRUD.Form1.resources
+E:\Angie Duitama\Downloads\CRUD\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+E:\Angie Duitama\Downloads\CRUD\CRUD\obj\Debug\CRUD.csproj.GenerateResource.cache
+E:\Angie Duitama\Downloads\CRUD\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+E:\Angie Duitama\Downloads\CRUD\CRUD\obj\Debug\CRUD.exe
+E:\Angie Duitama\Downloads\CRUD\CRUD\obj\Debug\CRUD.pdb
